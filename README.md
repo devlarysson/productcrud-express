@@ -28,8 +28,12 @@ $ cd productcrud-express
 # Install dependencies
 $ npm install
 
+# Copy the environment example to the root project and change the DB_URI variable to your database uri
+$ cp src/environments/dev.env .env
+
 # Start server
 $ npm run dev
+
 
 running on port 8080
 ```
