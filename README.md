@@ -1,4 +1,5 @@
 ## 💻 Project
+
 API with a basic crud to study express and mongodb
 
 ## :rocket: Technologies
@@ -16,11 +17,11 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 From your command line:
 
-### Install API 
+### Install API
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/devlarysson/productcrud-express.git
+$ git clone git@github.com:devlarysson/productcrud-express.git
 
 # Go into the repository
 $ cd productcrud-express
